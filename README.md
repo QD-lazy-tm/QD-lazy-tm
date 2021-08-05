@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-![Suzumiya Oriyuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy)
+![Suzumiya Oriyuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=QD-lazy-tm&show_icons=true&theme=buefy)
 
 - ⚒️ Python & HTML+JS & Swift(iOS)
 - 🌱 I’m currently learning CS
