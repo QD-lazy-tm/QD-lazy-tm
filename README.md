@@ -8,4 +8,4 @@
 - 💬 Ask me about Photography, Cooking, Animes, Games, Designing
 - 🖥 macOS
 - 😄 Pronouns: her
-- ⁉️ Fun Facts: `QD-lazy-tm` means Quick Developing & Lazy Team (It's the name of my code team in Junior High School) ~~sounds wierd~~
+- ⁉️ Fun Facts: `QD-lazy-tm` means Quick Developing & Lazy Team (It's the name of my code team in Junior High School) ~~sounds wierd~~ (Spells weird as well)
