@@ -2,7 +2,7 @@
 
 ![Cathy Williams's GitHub stats](https://github-readme-stats.vercel.app/api?username=QD-lazy-tm&show_icons=true&theme=buefy)
 
-- ⚒️ Python & HTML+JS & Swift(iOS)
+- ⚒️ Python & HTML+JS & Swift(iOS) & Android
 - 🌱 I’m currently learning CS
 - 👩‍💻 Collaborating in @louis-studio (@aeilot and @MrWillCom) as a designer
 - 💬 Ask me about Photography, Cooking, Animes, Games, Designing
